@@ -1,0 +1,164 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="one">
+		<div id="one1">
+			Hello&nbspWorld
+		</div>
+		<div>
+			<p id="one2">China is spengd uo ufhe wefkj eefef ffrf, wrtfgre
+			gr fgr wfrg wfgr geggt.</p>
+			<p id="one2">China is spengd uo ufhe wefkj eefef ffrf, wrtfgre
+			gr fgr wfrg wfgr geggt.</p>
+			<p id="one2">hello everyone</p>
+		</div>
+		<div id="one3">
+			<p>CREATE YOUR ACCOUNT</p>
+			<p>IT IS ABSOLUTELY FREE</p>
+			<a href="#" id="one4">com</a>
+			<a href="#" id="one5">CREATE</a>
+			<a href="#" id="one6">SIGN UP</a>
+		</div>
+	</div>
+	<div id="second">
+		<div >
+			<p>BOATOLADS OF AWESOME</p>
+			<p>Ready-made, customizable, HTML<br/>
+			landing page sections</p>
+		</div>
+		<div>
+			<div id="second1"><img src="images/2.gif"></div>
+			<div id="second1"><img src="images/3.gif"></div>
+		</div>
+		<div>
+		<div id="second2"><img src="images/4.gif"></div>
+		<div id="second2"><img src="images/5.gif"></div>
+		</div>
+	</div>
+	
+	<div id="third">
+	<div id="third6">
+		<div id="third1">
+			<p id="third2">Supportive policies<br/>
+			for China's smart</p>
+			<p>China will come up with its own smart car<br/>
+			China will come up with its own smart car<br/>
+			China will come up with its own smart car<br/>
+			China will come up with its own smart car<br/>
+			China will come up with its own smart car<br/>
+			</p>
+		</div>
+		<div>
+			<a id="third3" >CHECK OUT FEATURES</a>
+			<a id="third4">TRY PRODUCT FOR FREE</a>
+		</div>
+		</div>
+		<div id="third5">
+			<div id="third8">
+				<p id="third7">资料</p>
+				<p id="third9">这里又一些教程，文档或实例，可以帮助学习</p>
+				<div id="third10"><img src="images/6.gif">
+				<img src="images/7.gif">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="four">
+		<div id="four1">
+			Try Our Awesome Products
+		</div>
+		<div id="four2">
+			<img src="images/9.gif">
+			<img src="images/10.gif">
+			<img src="images/11.gif">
+		</div>
+	</div>
+	
+	<div id="five">
+		<div>
+			<div id="five1"><img src="images/12.gif"></div>
+			<div id="five2"><p>Learn How to improve Your<br/>
+			Personal Business</div>
+		</div>
+		<div>
+			<div id="five3"><img src="images/13.gif"></div>
+			<div id="five4">Choose Between Two Beautifully<br/>
+			Designed Color Schemes</div>
+		</div>
+	</div>
+	
+	<div id="six">
+		<div id="six1">
+			<p id="six2">Our Awesome Crew</p>
+			<p>our unique online yeaching style makes learning our unique online yeaching style makes learning<br/>
+			our unique online yeaching style makes learning</p>
+		</div>
+		<div class="img_div">
+			<img src="images/14.gif">
+				<a href="#">
+					<div class="mask">
+					<h3>picture</h3>
+					</div>
+				</a>
+		</div>
+		<div id="six3">
+			<div class="img_div">
+			<img src="images/15.gif">
+				<a href="#">
+					<div class="mask">
+					<h3>meitu</h3>
+					</div>
+				</a>
+		</div>
+		</div>
+	</div>
+	
+	<div id="seven">
+		<div id="seven1">
+			<div id="seven2">
+				FELL FREE TO WRITE US
+			</div>
+			<div ><input type="text" value="E-mail" id="seven3"></div>
+			<div ><input type="text" value="Subject" id="seven4"></div>
+			<div ><input type="textarea" value="Message" id="seven5"></div>
+			<div id="seven7"><a href="#" id="seven6">send</a></div>
+		</div>
+		<div id="seven7">
+			<img src="images/16.gif">
+		</div>
+	</div>
+	
+	<div id="eight">
+		<div id="eight1">
+		<p id="eight5">LEARN MORE</p>
+		<p id="eight6">LEARN MORE</p>
+		<p id="eight6">LEARN MORE</p>
+		<p id="eight6">LEARN MORE</p>
+		<p id="eight6">LEARN MORE</p>
+		</div>
+		<div id="eight2">
+		<p id="eight5">ABOUT US</p>
+		<p id="eight6">LEARN MORE</p>
+		<p id="eight6">LEARN MORE</p>
+		<p id="eight6">LEARN MORE</p>
+		<p id="eight6">LEARN MORE</p>
+		</div>
+		<div id="eight3">
+			<p id="eight5">SUPPORT</p>
+			<p id="eight6">LEARN MORE</p>
+			<p id="eight6">LEARN MORE</p>
+			<p id="eight6">LEARN MORE</p>
+			<p id="eight6">LEARN MORE</p>
+		</div>
+		<div id="eight4">
+			<p id="eight5">ENJOY YOUR LIFE</p>
+			<p id="eight6">LEARN MORE</p>
+			<p id="eight6">LEARN MORE</p>
+			<p id="eight6">LEARN MORE</p>
+			<p id="eight6">LEARN MORE</p>
+		</div>
+	</div>
+</body>
+</html>
